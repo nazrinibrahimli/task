@@ -1,0 +1,25 @@
+.App{
+}
+
+.cards{
+
+}
+.card{
+    width: 20rem;
+    height: 14rem;
+    margin: 1rem;
+    padding: 1.5rem;
+    color: white;
+}
+
+h1{
+    color: white;
+    padding-left: 1rem;
+    
+}
+
+.button{
+    width: 4rem;
+    height: 3rem;
+    margin: 1rem;
+}
